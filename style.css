@@ -3,13 +3,16 @@ img{
     max-width: 100px;
     max-height: 150px;
 }
+
 .title1{
     text-align: center;
     width:100%
 }
+
 th{
     border: 1px solid;
 }
+
 ul{
 padding:30px
 }
